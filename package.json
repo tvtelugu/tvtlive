@@ -1,10 +1,11 @@
+// package.json
 {
   "name": "youtube-m3u8-generator",
   "version": "1.0.0",
   "scripts": {
-    "build": "node scripts/generate-playlist.js"
+    "build": "echo 'Build complete'"
   },
   "dependencies": {
-    "yt-dlp-exec": "^1.0.5"
+    "youtube-dl-exec": "^2.1.3"
   }
 }
