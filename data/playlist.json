@@ -1,0 +1,17 @@
+// data/playlist.json
+{
+  "title": "My YouTube TV",
+  "description": "24/7 YouTube stream",
+  "videos": [
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "Never Gonna Give You Up",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "9bZkp7q19f0",
+      "title": "Gangnam Style",
+      "url": "https://www.youtube.com/watch?v=9bZkp7q19f0"
+    }
+  ]
+}
